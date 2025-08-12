@@ -1,4 +1,4 @@
-# Exercício 2
+# Exercício 02
 
 nome01 = "Casa"
 print(nome01)
@@ -9,7 +9,7 @@ print(parte01+parte02)
 
 print("Cadeira\n")
 
-# Exercício 3
+# Exercício 03
 
 print("Nome: João\nIdade: 20 anos\nCurso: Python básico\n")
 
